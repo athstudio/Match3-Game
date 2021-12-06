@@ -37,8 +37,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Gem.cs" />
-     <Compile Include="Assets\Scripts\Board.cs" />
      <Compile Include="Assets\Scripts\MatchFinder.cs" />
+     <Compile Include="Assets\Scripts\Board.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
